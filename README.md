@@ -15,17 +15,18 @@ Please update your presentation information with the following format.
 |2024-09-10  | Qasim Zia | - | - | - | - | - |
 |2024-09-17  | Haijing Zhang | - | - | - | - | - |
 |2024-09-24  | Zhiguo Liu | - | - | - | - | - |
-|2024-10-01  | Kaiyang Li  | - | - | - | - | - |
-|2024-10-08  | Dong Yang  | - | - | - | - | - |
-|2024-10-15  | Qasim Zia   | - | - | - | - | - |
-|2024-10-22  | Haijing Zhang  | - | - | - | - | - |
-|2024-10-29  | Zhiguo Liu   | - | - | - | - | - |
-|2024-11-05  | Kaiyang Li  | - | - | - | - | - |
-|2024-11-12  | Dong Yang | - | - | - | - | - |
-|2024-11-19  | Qasim Zia  | - | - | - | - | - |
-|2024-11-26  | Haijing Zhang  | - | - | - | - | - |
-|2024-12-03  | Zhiguo Liu  | - | - | - | - | - |
-|2024-12-10  | Kaiyang Li  | - | - | - | - | - |
-|2024-12-17  | Dong Yang  | - | - | - | - | - |
+|2024-10-01  | Yuoyu Yao  | - | - | - | - | - |
+|2024-10-08  | Kaiyang Li  | - | - | - | - | - |
+|2024-10-15   | Dong Yang  | - | - | - | - | - |
+| 2024-10-22| Qasim Zia   | - | - | - | - | - |
+| 2024-10-29 | Haijing Zhang  | - | - | - | - | - |
+| 2024-11-05 | Zhiguo Liu   | - | - | - | - | - |
+| 2024-11-12 | Yuoyu Yao  | - | - | - | - | - |
+| 2024-11-19 |Kaiyang Li | - | - | - | - | - |
+| 2024-11-26 |  Dong Yang  | - | - | - | - | - |
+| 2024-12-03 |Qasim Zia  | - | - | - | - | - |
+| 2024-12-10  | Haijing Zhang  | - | - | - | - | - |
+| 2024-12-17| Zhiguo Liu  | - | - | - | - | - |
+
 
 
