@@ -1,8 +1,8 @@
-# Group Seminar - Spring 2024
+# Group Seminar - Fall 2024
 
 <code style="color : red">Date: Aug 26 to Dec 17</code>
 
-<code style="color : red">Time: 12:00 PM to 2:00 PM, Monday</code>
+<code style="color : red">Time: 8:30 AM to 10:00 AM, Tusday</code>
 
 <code style="color : red">Location: Room 755, 25 Park Place</code>
 
@@ -10,7 +10,7 @@ Please update your presentation information with the following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|~~2024-01-08~~  | Kaiyang Li   | Graph Matching - RL | - | - | - | - |
+|2024-01-08  | Kaiyang Li   | Graph Matching - RL | - | - | - | - |
 |~~2024-01-15~~  | Holiday: Martin Luther King Jr. Day | - | - | - | - | - |
 |~~2024-01-22~~  | Chenyu Wang  | Job Talk | - | - | - | - |
 |~~2024-01-29~~  | Visiting Scholar  | - | - | - | - | - |
