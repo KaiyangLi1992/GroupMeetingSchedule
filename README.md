@@ -11,7 +11,7 @@ Please update your presentation information with the following format.
 | Date       | Presenter1     | Topic1 | Presenter2     | Topic2 |
 |------------|----------------|--------|----------------|--------|
 | 2024-08-27 | Kaiyang Li      | -      | Dong Yang      | -      |
-| 2024-09-03 | Haijing Zhang   | -      | Qasim Zial     | -      |
+| 2024-09-03 | Haijing Zhang   | -      | Qasim Zia    | -      |
 | 2024-09-10 | Zhiguo Liu      | -      | Zhuoyu Yao     | -      |
 | 2024-09-17 | Junyu Mai       | -      | Kaiyang Li     | -      |
 | 2024-09-24 | Dong Yang       | -      | Haijing Zhang  | -      |
