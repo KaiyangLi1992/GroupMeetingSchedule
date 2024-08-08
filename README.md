@@ -9,8 +9,9 @@
 Please update your presentation information with the following format.
 
 | Date  | Presenter1 | Topic1 | Presenter1 | Topic2 |
+
 | ------------- | ------------- | ------------- | ------------- | 
-|2024-08-27  | Kaiyang Li  | - | Dong Yang| - | 
+|2024-08-27  | Kaiyang Li  | -  | Dong Yang| -  | 
 |2024-09-03  |  Haijing Zhang | - |  Qasim Zia| - | 
 |2024-09-10  |Zhiguo Liu | - | Zhuoyu Yao  | - | 
 |2024-09-17  | Junyu Mai | - | Kaiyang Li  | - | 
@@ -27,6 +28,3 @@ Please update your presentation information with the following format.
 |2024-12-03  | Kaiyang Li  | - | Dong Yang| - | 
 |2024-12-10  |  Haijing Zhang | - |  Qasim Zia| - | 
 |2024-12-17  |Zhiguo Liu | - | Zhuoyu Yao  | - | 
-
-
-
