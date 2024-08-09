@@ -22,9 +22,9 @@ Please update your presentation information with the following format.
 | 2024-10-29 |  Qasim Zia        | -      | 
 | 2024-11-05 | Haijing Zhang       | -      | 
 | 2024-11-12 |    Zhiguo Liu   | -      | 
-| 2024-11-19 | Junyu Mai   | -      | 
-| 2024-11-26 | Kaiyang Li       | -      | 
-| 2024-12-03 | Dong Yang       | -      | 
-| 2024-12-10 | Qasim Zia    | -      | 
-| 2024-12-17 | Haijing Zhang     | -      | 
+| 2024-11-19 | Zhuoyu Yao     | -      | 
+| 2024-11-26 | Junyu Mai        | -      | 
+| 2024-12-03 | Kaiyang Li       | -      | 
+| 2024-12-10 | Dong Yang     | -      | 
+| 2024-12-17 | Qasim Zia     | -      | 
 
