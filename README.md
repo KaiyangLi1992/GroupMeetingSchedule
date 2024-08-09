@@ -8,23 +8,23 @@
 
 Please update your presentation information with the following format.
 
-| Date       | Presenter1     | Topic1 | Presenter2     | Topic2 |
-|------------|----------------|--------|----------------|--------|
-| 2024-08-27 | Kaiyang Li      | -      | Dong Yang      | -      |
-| 2024-09-03 |   Qasim Zia  | -      |  Haijing Zhang  | -      |
-| 2024-09-10 | Zhiguo Liu      | -      | Zhuoyu Yao     | -      |
-| 2024-09-17 | Junyu Mai       | -      | Kaiyang Li     | -      |
-| 2024-09-24 | Dong Yang       | -      | Qasim Zia   | -      |
-| 2024-10-01 |    Haijing Zhang   | -      | Zhiguo Liu     | -      |
-| 2024-10-08 | Zhuoyu Yao      | -      | Junyu Mai      | -      |
-| 2024-10-15 | Kaiyang Li      | -      | Dong Yang      | -      |
-| 2024-10-22 |  Qasim Zia | -      |   Haijing Zhang     | -      |
-| 2024-10-29 | Zhiguo Liu      | -      | Zhuoyu Yao     | -      |
-| 2024-11-05 | Junyu Mai       | -      | Kaiyang Li     | -      |
-| 2024-11-12 | Dong Yang       | -      | Qasim Zia    | -      |
-| 2024-11-19 | Haijing Zhang     | -      | Zhiguo Liu     | -      |
-| 2024-11-26 | Zhuoyu Yao      | -      | Junyu Mai      | -      |
-| 2024-12-03 | Kaiyang Li      | -      | Dong Yang      | -      |
-| 2024-12-10 | Qasim Zia    | -      | Haijing Zhang  | -      |
-| 2024-12-17 | Zhiguo Liu      | -      | Zhuoyu Yao     | -      |
+| Date       | Presenter     | Topic | 
+|------------|----------------|--------|
+| 2024-08-27 | Kaiyang Li      | -      | 
+| 2024-09-03 |   Dong Yang    | -      |  
+| 2024-09-10 |  Qasim Zia      | -      | 
+| 2024-09-17 | Haijing Zhang      | -      |
+| 2024-09-24 |   Zhiguo Liu    | -      | 
+| 2024-10-01 | Zhuoyu Yao     | -      | 
+| 2024-10-08 | Junyu Mai      | -      | 
+| 2024-10-15 | Kaiyang Li     | -      | 
+| 2024-10-22 | Dong Yang | -   |   
+| 2024-10-29 |  Qasim Zia        | -      | 
+| 2024-11-05 | Haijing Zhang       | -      | 
+| 2024-11-12 |    Zhiguo Liu   | -      | 
+| 2024-11-19 | Junyu Mai   | -      | 
+| 2024-11-26 | Kaiyang Li       | -      | 
+| 2024-12-03 | Dong Yang       | -      | 
+| 2024-12-10 | Qasim Zia    | -      | 
+| 2024-12-17 | Haijing Zhang     | -      | 
 
