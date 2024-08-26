@@ -10,7 +10,7 @@ Please update your presentation information with the following format.
 
 | Date       | Presenter     | Topic | Slides |
 |------------|----------------|--------|--------|
-| 2024-08-27 | Kaiyang Li      | When VBLora meets Federated Learning | -      | 
+| 2024-08-27 | Kaiyang Li      | When VBLora meets Federated Learning | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Kaiyang%20Li/when%20VBLora%20meet%20FL.pptx)      | 
 | 2024-09-03 |   Dong Yang    | -      | -      |  
 | 2024-09-10 |  Qasim Zia      | -      | -      | 
 | 2024-09-17 | Haijing Zhang      | -      |-      | 
