@@ -25,6 +25,5 @@ Please update your presentation information with the following format.
 | 2024-11-19      | Zhiguo Liu      | -   | -   |
 | 2024-11-26      | Zhuoyu Yao      | -   | -   |
 | 2024-12-03      | Junyu Mai       | -   | -   |
-| 2024-12-10      | Kaiyang Li      | -   | -   |
-| 2024-12-17      | Dong Yang      | -   | -   |
+
 
