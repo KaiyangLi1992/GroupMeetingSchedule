@@ -16,10 +16,7 @@ Please update your presentation information with the following format.
 | 2024-09-17      | Qasim Zia       | EfficientNeT DT and VANET (Convolutional Neural Networks)| [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Qasim%20Zia/EfficientNet%20%20-%20%20Read-Only.pptx)  |
 | 2024-09-24      | Haijing Zhang   | Robust Graph Representation Learning with Adversarial Training |[Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Haijing%20Zhang/HaijingZhang_PhDQualifierExam_2024Fall-1.pptx)|
 | 2024-10-01      | Zhiguo Liu &  Junyu Mai   | What is the relationship between
-Metaverse and XR  & Essential Elements of VR Headsets:
-	 A Technical Overview
-![image](https://github.com/user-attachments/assets/5f5e513d-cb34-4a71-93c1-0f91f3cc898e)
-   | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Zhiguo%20Liu/What%20is%20the%20relationship%20between%20Metaverse%20and%20XR.pdf) & [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Junyu%20Mai/Essential%20Elements%20of%20VR%20Headsets.pptx)   |
+Metaverse and XR  & Essential Elements of VR Headsets:A Technical Overview | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Zhiguo%20Liu/What%20is%20the%20relationship%20between%20Metaverse%20and%20XR.pdf) & [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Junyu%20Mai/Essential%20Elements%20of%20VR%20Headsets.pptx)   |
 | 2024-10-08      | Haijing Zhang | -   | -   |
 | 2024-10-15      |   Qasim Zia    | -   | -   |
 | 2024-10-22      |  Zhuoyu Yao     | -   | -   |
