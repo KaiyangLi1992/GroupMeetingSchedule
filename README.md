@@ -18,7 +18,7 @@ Please update your presentation information with the following format.
 | 2024-10-01      | Zhiguo Liu &  Junyu Mai   | What is the relationship between Metaverse and XR   &  Essential Elements of VR Headsets:A Technical Overview | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Zhiguo%20Liu/What%20is%20the%20relationship%20between%20Metaverse%20and%20XR.pdf) & [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Junyu%20Mai/Essential%20Elements%20of%20VR%20Headsets.pptx)   |
 | 2024-10-08      | Haijing Zhang | Robust Graph Representation Learning with Adversarial Training  | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Haijing%20Zhang/HaijingZhang_PhDQualifierExam_2024Fall-2.pptx)  |
 | 2024-10-15      |   Qasim Zia    | X-AI Explainable Artificial Intelligence   | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Qasim%20Zia/Research%20Group.pdf)   |
-| 2024-10-22      |  Zhuoyu Yao     | How to make DSL more federated![image](https://github.com/user-attachments/assets/573f947e-c0a2-48da-a1f2-60a1817414e3)| [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Zhuoyu%20Yao/How%20to%20make%20DSL%20more%20federated.pptx)   |
+| 2024-10-22      |  Zhuoyu Yao     | How to make DSL more federated| [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Zhuoyu%20Yao/How%20to%20make%20DSL%20more%20federated.pptx)   |
 | 2024-10-29      |   Kaiyang Li    | -   | -   |
 | 2024-11-05      |    Dong Yang    | -   | -   |
 | 2024-11-12      | Junyu Mai  | -   | -   |
