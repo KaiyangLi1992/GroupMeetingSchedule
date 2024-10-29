@@ -19,7 +19,7 @@ Please update your presentation information with the following format.
 | 2024-10-08      | Haijing Zhang | Robust Graph Representation Learning with Adversarial Training  | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Haijing%20Zhang/HaijingZhang_PhDQualifierExam_2024Fall-2.pptx)  |
 | 2024-10-15      |   Qasim Zia    | X-AI Explainable Artificial Intelligence   | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Qasim%20Zia/Research%20Group.pdf)   |
 | 2024-10-22      |  Zhuoyu Yao     | How to make DSL more federated| [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Zhuoyu%20Yao/How%20to%20make%20DSL%20more%20federated.pptx)   |
-| 2024-10-29      |   Kaiyang Li    | -   | -   |
+| 2024-10-29      |   Kaiyang Li    | Inductive Knowledge Graph Embedding via Exploring Interaction Patterns of Relations  | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Kaiyang%20Li/cikm2024.pptx)   |
 | 2024-11-05      |    Dong Yang    | -   | -   |
 | 2024-11-12      | Junyu Mai  | -   | -   |
 | 2024-11-19      | Zhiguo Liu      | -   | -   |
