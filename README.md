@@ -23,7 +23,7 @@ Please update your presentation information with the following format.
 | 2024-11-05      |    Dong Yang    | Radio Map Estimation| [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Dong%20Yang/Radio%20Map%20Estimation.pptx)   |
 | 2024-11-12      | Junyu Mai  | LOCUS:User-Perceived Delay-Aware Service Placement.pptx   | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Junyu%20Mai/LOCUS%20User-Perceived%20Delay-Aware%20Service%20Placement.pptx)   |
 | 2024-11-19      | Zhiguo Liu      | -   | -   |
-| 2024-11-26      | Thanks Giving Break   | -   | -   |
+| 2024-11-26      | Thanksgiving Break   | -   | -   |
 | 2024-12-03      | Zhuoyu Yao      | -   | -   |
 
 
