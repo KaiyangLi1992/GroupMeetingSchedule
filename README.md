@@ -22,7 +22,7 @@ Please update your presentation information with the following format.
 | 2024-10-29      |   Kaiyang Li    | Inductive Knowledge Graph Embedding via Exploring Interaction Patterns of Relations  | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Kaiyang%20Li/cikm2024.pptx)   |
 | 2024-11-05      |    Dong Yang    | Radio Map Estimation| [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Dong%20Yang/Radio%20Map%20Estimation.pptx)   |
 | 2024-11-12      | Junyu Mai  | LOCUS:User-Perceived Delay-Aware Service Placement.pptx   | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Junyu%20Mai/LOCUS%20User-Perceived%20Delay-Aware%20Service%20Placement.pptx)   |
-| 2024-11-19      | Zhiguo Liu      | -   | -   |
+| 2024-11-19      | Zhiguo Liu      |  CityDreamer Compositional Generative Model of Unbounded 3D Cities  | [Link](https://github.com/KaiyangLi1992/GroupMeetingSchedule/blob/main/Slides/Zhiguo%20Liu/CityDreamer%20Compositional%20Generative%20Model%20of%20Unbounded%203D%20Cities(1).pdf)   |
 | 2024-11-26      | Thanksgiving Break   | -   | -   |
 | 2024-12-03      | Zhuoyu Yao      | -   | -   |
 
